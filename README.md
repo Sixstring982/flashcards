@@ -26,7 +26,7 @@ Hitler = Really bad guy, killed lots of people.
 Thomas Jefferson = Founding Father of the USA.
 </code>
 
-### Issue
+### Issues
 
 This thing is really simple and should just work anywhere you can
 compile it. Add any issues you find to the Issues tab above as you
