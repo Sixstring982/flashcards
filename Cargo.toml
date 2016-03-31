@@ -1,0 +1,7 @@
+[package]
+name = "flashcards"
+version = "0.1.0"
+authors = ["Sixstring982 <sixstring982@gmail.com>"]
+
+[dependencies]
+rand = "0.3"
